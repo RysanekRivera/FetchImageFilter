@@ -8,6 +8,6 @@
   <img src = "https://github.com/RysanekRivera/FetchImageFilter/blob/master/image_2.png" width="250" height="500"/>
   <img src = "https://github.com/RysanekRivera/FetchImageFilter/blob/master/image_3.png" width="250" height="500"/>
   <img src = "https://github.com/RysanekRivera/FetchImageFilter/blob/master/image_4.png" width="250" height="500"/>
-  <img src="https://github.com/RysanekRivera/FetchImageFilter/blob/master/ic_fetch_image_filter.png" width="250" height="250"/>
+  <img src="https://github.com/RysanekRivera/FetchImageFilter/blob/master/ic_fetch_image_filter.png" width="150" height="150"/>
 </div>
 
