@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FetchImageFilter</string>
+    <string name="blur_filter">blur filter</string>
+    <string name="grayscale_filter">grayscale filter</string>
+    <string name="mask_filter">mask filter</string>
+    <string name="toonify_filter">toonify filter</string>
+    <string name="contrast_filter">contrast filter</string>
+    <string name="invert_filter">invert filter</string>
+    <string name="pixelation_filter">pixelation filter</string>
+    <string name="sketch_filter">sketch filter</string>
+    <string name="crop_circle_filter">crop circle filter</string>
+    <string name="crop_square_filter">crop square filter</string>
+    <string name="brightness_filter">brightness filter</string>
+    <string name="kuwahara_filter">kuwahara filter</string>
+    <string name="vignette_filter">vignette filter</string>
+    <string name="picture_to_filter">picture to filter</string>
+    <string name="original_picture">Original Picture</string>
+    <string name="reset">reset</string>
+    <string name="upload">Upload</string>
+    <string name="sepia_filter">sepia filter</string>
+</resources>
